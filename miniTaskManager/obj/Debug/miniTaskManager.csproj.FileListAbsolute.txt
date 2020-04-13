@@ -1,0 +1,9 @@
+D:\Projects\miniTaskManager\miniTaskManager\bin\Debug\miniTaskManager.exe.config
+D:\Projects\miniTaskManager\miniTaskManager\bin\Debug\miniTaskManager.exe
+D:\Projects\miniTaskManager\miniTaskManager\bin\Debug\miniTaskManager.pdb
+D:\Projects\miniTaskManager\miniTaskManager\obj\Debug\miniTaskManager.frmTaskManger.resources
+D:\Projects\miniTaskManager\miniTaskManager\obj\Debug\miniTaskManager.Properties.Resources.resources
+D:\Projects\miniTaskManager\miniTaskManager\obj\Debug\miniTaskManager.csproj.GenerateResource.cache
+D:\Projects\miniTaskManager\miniTaskManager\obj\Debug\miniTaskManager.csproj.CoreCompileInputs.cache
+D:\Projects\miniTaskManager\miniTaskManager\obj\Debug\miniTaskManager.exe
+D:\Projects\miniTaskManager\miniTaskManager\obj\Debug\miniTaskManager.pdb
